@@ -11,3 +11,5 @@ verify they're there
 pip list | grep azure
 
 Than upload my script and make sure its executable 
+
+2 csv's will be created one for disks one for storage accounts
