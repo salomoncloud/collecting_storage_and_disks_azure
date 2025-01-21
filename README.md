@@ -1,0 +1,1 @@
+# collecting_storage_and_disks_azure
